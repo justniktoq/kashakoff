@@ -1,5 +1,5 @@
 'use strict';
-/*
+
 let age = confirm('Вас зовут Миша?')
 function checkAge () {
   if (age === true) {
@@ -15,4 +15,4 @@ function checkAge () {
     alert('Идите нахуй!')
   }
 }
-checkAge();*/
+checkAge();
